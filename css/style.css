@@ -169,5 +169,9 @@ img {
         .why-us .col-right {
             width: 100%;
         }
+
+        div.card{
+            padding: 1rem;
+        }
     }
 
